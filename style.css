@@ -1,0 +1,49 @@
+h1 {
+    color: aquamarine;
+    font-size: 40px;
+    font-family:fantasy;
+}
+h2 {
+    color: gold;
+    font-family:monospace;
+}
+.main {
+    color: darkturquoise;
+    font-family:cursive;
+}
+tittle{
+    color: darkgoldenrod;
+    font-size: 60px;
+    font-family:serif;
+}
+strong{
+    color: darkgoldenrod;
+}
+em{
+    color: aquamarine;
+}
+p {
+    color:darkcyan;
+    font-family:inherit;
+}
+.bla {
+    width: 100px;
+    background-color:antiquewhite;
+    float:left;
+}
+.second {
+    width: 400px;
+    background-color:black;
+}
+.hello {
+    width: 75%;
+    background-image: url(47.jpg);
+    float:left;
+    
+}
+.clearfix:after{
+    content: "";
+    display: table;
+    clear: both;
+}
+
